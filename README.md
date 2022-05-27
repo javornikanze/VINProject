@@ -1,4 +1,4 @@
-# VINProject
+# Sistem za zaznavanje vsiljivcev - Arduino
 Samostojni projekt pri predmetu VIN
 
 
