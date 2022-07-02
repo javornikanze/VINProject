@@ -54,6 +54,7 @@ Je majhen zaslon, ki omogoča prikaz 16 znakov v dveh vrsticah. Ima 16 priključ
 
 ## 3. Shema vezja:<br />
 <img src="circuit.png" alt="drawing" width="800"/>
+Za najboljšo vidljivost sem shemo kar narisal v AUTODESK Tinkercadu. Na shemi so vse že prej naštete kompotente povezane na Arduino. Pomembno je, da je laser usmerjen v fotoupor kot na shemi, fizična postavitev drugih komponent pa ni pomembna.
 
 ## 4. Video demonstracija:<br />
 <a href="https://www.youtube.com/watch?v=z8XsJ1ixl1g"> <img src="https://img.youtube.com/vi/z8XsJ1ixl1g/0.jpg" alt="drawing" width="500"/> </a>
