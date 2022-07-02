@@ -22,6 +22,7 @@ Komponente, ki jih bom uporabil pri projektu:
 ## 2. Opis posameznih komponent
 ### 2.1 Arduino UNO
 Arduino je mikrokrmilnik na matični plošči, ki je bil zasnovan tako, da bi bil čim bolj dostopen za uporabo vsem uporabnikom. Omogoča enostavno priklapljanje in odklapljanje V/I naprav, prav tako pa nam enostaven uporabniški vmesnik Arduino omogoča programiranje, da te naprave lahko upravljamo po lastnih željah. Arduino UNO je opremljen s čipom ATmega328P. Na voljo nam je 14 digitalnih V/I priključkov (6 od teh ima možnost PWM izhoda) in 6 analognih V/I priključkov. Napajamo ga lahko z USB kablom ali z zunanjo 9-voltno baterijo (sprejema tudi napetosti med 7 in 20 volti).
+
 <img src="https://i.pinimg.com/originals/9a/74/68/9a7468b9be3177749f99751c56f2ab18.jpg" alt="arduino uno" width="400">
 
 ### 2.2 Fotoupornik
