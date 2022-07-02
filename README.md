@@ -1,6 +1,8 @@
 # Sistem za zaznavanje vsiljivcev - Arduino
 ### Samostojni projekt pri predmetu VIN
 
+Git repo: https://github.com/javornikanze/VINProject
+
 
 
 ## 1. Uvod
